@@ -1,0 +1,2 @@
+# Automated-Face-Recognition-Based-Attendance-System-using-AI
+We developed a face recognition system using Dlib and CNN to automate university attendance. The system captures student images during classes, extracts features, and matches them with a trained database. Attendance is stored in Firebase. Achieving 99% accuracy, our system ensures reliable real-time recognition and efficient attendance management.
